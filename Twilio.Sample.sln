@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Sample", "Twilio.Sample\Twilio.Sample.csproj", "{DAF984C5-D631-4637-8533-630C075FD71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF984C5-D631-4637-8533-630C075FD71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF984C5-D631-4637-8533-630C075FD71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF984C5-D631-4637-8533-630C075FD71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF984C5-D631-4637-8533-630C075FD71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8339C4A-BE29-4F9E-9D6D-D6E096B68310}
+	EndGlobalSection
+EndGlobal
